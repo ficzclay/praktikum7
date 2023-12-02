@@ -29,6 +29,7 @@ Lambda digunakan di sini untuk membuat fungsi-fungsi singkat dan ekspresif tanpa
 - `hapus_duplikat`: Fungsi lambda untuk menghapus duplikat karakter dalam string s dengan menggunakan konsep set dalam Python.
 
 Hasil:
+![1](https://github.com/ficzclay/praktikum7/assets/148204078/abdeda39-188c-4ec4-a8c8-3abcdbb6abfe)
 
 
 ## Tugas Praktikum
@@ -57,43 +58,42 @@ Penjelasan:
 
 Berikut Hasilnya:
 <br>
+![hasil_1](https://github.com/ficzclay/praktikum7/assets/148204078/f12b6ad0-aade-4fd4-90ab-4e99bfb5bfee)
 
 
 
 Tambah Data:
 <br>
+![2](https://github.com/ficzclay/praktikum7/assets/148204078/ad055794-585c-48da-8d66-fc6e6c4cd24d)
 
 
 
 
 Lihat Data:
 <br>
+![read_data](https://github.com/ficzclay/praktikum7/assets/148204078/e4d20e6a-11de-4eef-ba51-e18ec096452f)
 
 <br>
 
 
 Hapus Data:
 <br>
+![3](https://github.com/ficzclay/praktikum7/assets/148204078/a6a70e5b-e83a-43fc-956c-6b8046528b50)
 
 
 
 Ubah Data:<br>
+![4](https://github.com/ficzclay/praktikum7/assets/148204078/d333598c-f46b-4717-b647-f44788a19d9a)
 
 
 <br>
 
-
-Cari Data:<br>
-
-
-
-
 Keluar:<br>
-
-
+![5](https://github.com/ficzclay/praktikum7/assets/148204078/c092e7bd-2b03-4cc2-8b91-dd5a6223eef8)
 
 
 Flowchart:<br>
+![6](https://github.com/ficzclay/praktikum7/assets/148204078/7566cb60-e3ff-4fc6-90ad-5aeaf18df42f)
 
 
 
