@@ -1,4 +1,4 @@
-# Praktikum 6
+# Praktikum 7
 
 ## Latihan 1
 
